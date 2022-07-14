@@ -1,0 +1,43 @@
+_repo: The-guest-rites_68380
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Giunta, John
+    aliases:
+    - Giunta
+    - Giunta, J.
+    - Guinta, John
+    birthdate: 1920
+    deathdate: 1970
+    gutenberg_agent_id: '42186'
+    url: http://www.gutenberg.org/2009/agents/42186
+    wikipedia: https://en.wikipedia.org/wiki/John_Giunta
+creator:
+  author:
+    agent_name: Silverberg, Robert
+    birthdate: 1935
+    gutenberg_agent_id: '28358'
+    url: http://www.gutenberg.org/2009/agents/28358
+    wikipedia:
+    - https://www.gutenberg.org/ebooks/author/53466
+    - http://en.wikipedia.org/wiki/Robert_Silverberg
+description: ''
+gutenberg_issued: '2022-06-23'
+identifiers:
+  gutenberg: '68380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Thieves -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcsh 'Hospitality -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: The guest rites
+url: http://www.gutenberg.org/ebooks/68380

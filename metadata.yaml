@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '42186'
     url: http://www.gutenberg.org/2009/agents/42186
     wikipedia: https://en.wikipedia.org/wiki/John_Giunta
+covers:
+- cover_type: archival
+  image_path: 68380-h/images/cover.jpg
 creator:
   author:
     agent_name: Silverberg, Robert
@@ -22,6 +25,8 @@ creator:
     - https://www.gutenberg.org/ebooks/author/53466
     - http://en.wikipedia.org/wiki/Robert_Silverberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68380#The-guest-rites
 gutenberg_issued: '2022-06-23'
 identifiers:
   gutenberg: '68380'
